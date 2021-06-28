@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proyFront"
+    }
+  },
+  "defaultProject": "proyFront",
+  "cli": {
+    "analytics": "9a8c7995-b08f-4583-b98d-a0a1d1c4f027"
+  }
 }
